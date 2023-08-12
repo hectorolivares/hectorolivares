@@ -1,4 +1,4 @@
-![README Cover](/assets/readme-co.png)
+![README Cover](/assets/RMC.png)
 
 <p align="center">
 	<samp>
