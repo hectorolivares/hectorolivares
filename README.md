@@ -1,4 +1,3 @@
-![README Cover](/assets/RMC.png)
 
 <p align="center">
 	<samp>
